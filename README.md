@@ -1,2 +1,4 @@
 # kickaway_depression
-A Data analysis made in our campus to know the mental health of students in our campus. This is an initiative for us to make further improvements in the stream.r
+A Data analysis made in our campus to know the mental health of students in our campus. This is an initiative for us to make further improvements in the stream.
+
+KickAway Depression is a mental wellness app designed to support users dealing with depression through features like an interactive mascot, personalized tasks, counselor connections, motivational stories, book recommendations, chatbots, avatars, streak tracking, and emergency helplines. Currently, the project is in the design phase, and we are working on refining features and planning the development process. Next, we will focus on finalizing the UI/UX, implementing key features, and testing the app to ensure a smooth user experience. Stay tuned for updates!
